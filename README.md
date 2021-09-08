@@ -1,6 +1,6 @@
 ### Hi [CodeMrOscar][website] here 👋
 
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/CodeMrOscar?label=CodeMrOscar&logo=twitter&style=for-the-badge)](https://twitter.com/CodeMrOscar)
 
 
 Here are some ideas to get you started:
