@@ -5,7 +5,7 @@
 
 [<img src="https://i.imgur.com/wKxGZfC.gif">](https://mroscar.vercel.app/)
 
-###👨‍💻 Web Developer 👓Discord Administrator
+### 👨‍💻 Web Developer 👓Discord Administrator
 
 - 🔭 I’m currently working on freelance
 - 🌱 I’m currently learning react and angular
