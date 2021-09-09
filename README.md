@@ -14,6 +14,11 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love programming and play videogames
 
+
+### Languages
+
+
+
 <!--LINKS-->
 
 [website]: https://mroscar.vercel.app/
